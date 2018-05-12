@@ -1,5 +1,5 @@
 _repo: The-Merchant-of-BerlinAn-Historical-Novel_12016
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Coffin, Amory
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1884
     gutenberg_agent_id: '39048'
     url: http://www.gutenberg.org/2009/agents/39048
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlbach, L. (Luise)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12016#The-Merchant-of-BerlinAn-Historical-Novel
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
